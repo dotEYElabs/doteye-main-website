@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53a3ae81.css",
+    "main.js": "/static/js/main.c3b9ab18.js",
+    "static/media/feature.png": "/static/media/feature.3b26528edd78c0c77c1b.png",
+    "static/media/slider2.png": "/static/media/slider2.6e1c7785cd678b41d988.png",
+    "static/media/slider3.png": "/static/media/slider3.4f2d19a9fb7ca1de5f3d.png",
+    "static/media/slider1.png": "/static/media/slider1.b1148b6c6216a183ab56.png",
+    "static/media/slider4.png": "/static/media/slider4.9406df0cc87e710fb917.png",
+    "static/media/overlayimg.png": "/static/media/overlayimg.08756a44146c6b3d27f9.png",
+    "static/media/overlayreverse.png": "/static/media/overlayreverse.5ffd48ed2a98320f596f.png",
+    "static/media/Lato-Light.ttf": "/static/media/Lato-Light.c7400fcad9e48ca9043f.ttf",
+    "static/media/Hakuna-Sans.otf": "/static/media/Hakuna-Sans.b11ad9785224884d0b22.otf",
+    "static/media/Group 9.png": "/static/media/Group 9.68b8564d84ef0c6299bd.png",
+    "static/media/L-shape.png": "/static/media/L-shape.c6ab690b1b386647283c.png",
+    "static/media/Profile-2.png": "/static/media/Profile-2.b3b919dc63fcae9a4932.png",
+    "static/media/Profile-1.png": "/static/media/Profile-1.c0cd6c86dd7d826e6d41.png",
+    "index.html": "/index.html",
+    "main.53a3ae81.css.map": "/static/css/main.53a3ae81.css.map",
+    "main.c3b9ab18.js.map": "/static/js/main.c3b9ab18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a3ae81.css",
+    "static/js/main.c3b9ab18.js"
+  ]
+}
