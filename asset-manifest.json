@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/doteyelabs.com/static/css/main.6130753e.css",
-    "main.js": "/doteyelabs.com/static/js/main.912f463f.js",
-    "static/media/feature.png": "/doteyelabs.com/static/media/feature.3b26528edd78c0c77c1b.png",
-    "static/media/slider2.png": "/doteyelabs.com/static/media/slider2.6e1c7785cd678b41d988.png",
-    "static/media/slider3.png": "/doteyelabs.com/static/media/slider3.4f2d19a9fb7ca1de5f3d.png",
-    "static/media/slider1.png": "/doteyelabs.com/static/media/slider1.b1148b6c6216a183ab56.png",
-    "static/media/slider4.png": "/doteyelabs.com/static/media/slider4.9406df0cc87e710fb917.png",
-    "static/media/overlayimg.png": "/doteyelabs.com/static/media/overlayimg.08756a44146c6b3d27f9.png",
-    "static/media/overlayreverse.png": "/doteyelabs.com/static/media/overlayreverse.5ffd48ed2a98320f596f.png",
-    "static/media/Hakuna-Sans.otf": "/doteyelabs.com/static/media/Hakuna-Sans.b11ad9785224884d0b22.otf",
-    "static/media/Group 9.png": "/doteyelabs.com/static/media/Group 9.68b8564d84ef0c6299bd.png",
-    "static/media/L-shape.png": "/doteyelabs.com/static/media/L-shape.c6ab690b1b386647283c.png",
-    "static/media/Profile-2.png": "/doteyelabs.com/static/media/Profile-2.b3b919dc63fcae9a4932.png",
-    "static/media/Profile-1.png": "/doteyelabs.com/static/media/Profile-1.c0cd6c86dd7d826e6d41.png",
-    "index.html": "/doteyelabs.com/index.html",
-    "main.6130753e.css.map": "/doteyelabs.com/static/css/main.6130753e.css.map",
-    "main.912f463f.js.map": "/doteyelabs.com/static/js/main.912f463f.js.map"
+    "main.css": "/static/css/main.d8178bb1.css",
+    "main.js": "/static/js/main.694a955d.js",
+    "static/media/feature.png": "/static/media/feature.3b26528edd78c0c77c1b.png",
+    "static/media/slider2.png": "/static/media/slider2.6e1c7785cd678b41d988.png",
+    "static/media/slider3.png": "/static/media/slider3.4f2d19a9fb7ca1de5f3d.png",
+    "static/media/slider1.png": "/static/media/slider1.b1148b6c6216a183ab56.png",
+    "static/media/slider4.png": "/static/media/slider4.9406df0cc87e710fb917.png",
+    "static/media/overlayimg.png": "/static/media/overlayimg.08756a44146c6b3d27f9.png",
+    "static/media/overlayreverse.png": "/static/media/overlayreverse.5ffd48ed2a98320f596f.png",
+    "static/media/Hakuna-Sans.otf": "/static/media/Hakuna-Sans.b11ad9785224884d0b22.otf",
+    "static/media/Group 9.png": "/static/media/Group 9.68b8564d84ef0c6299bd.png",
+    "static/media/L-shape.png": "/static/media/L-shape.c6ab690b1b386647283c.png",
+    "static/media/Profile-2.png": "/static/media/Profile-2.b3b919dc63fcae9a4932.png",
+    "static/media/Profile-1.png": "/static/media/Profile-1.c0cd6c86dd7d826e6d41.png",
+    "index.html": "/index.html",
+    "main.d8178bb1.css.map": "/static/css/main.d8178bb1.css.map",
+    "main.694a955d.js.map": "/static/js/main.694a955d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6130753e.css",
-    "static/js/main.912f463f.js"
+    "static/css/main.d8178bb1.css",
+    "static/js/main.694a955d.js"
   ]
 }
