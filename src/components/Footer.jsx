@@ -3,17 +3,6 @@ import { FaFacebook, FaTwitter, IoLocationOutline, FaEnvelope, FaPhoneAlt, FaLin
 import { RiMapPin2Line } from 'react-icons/ri';
 function Footer() {
   return (
-//     <div className="footer flex justify-between  sm:p-5 p-1 shadow ">
-//       <div className="sm:text-[14px] text-sm items-end">
-//         Copyright ©2023.All Right Reserved
-//       </div>
-//       <div className="sm:text-[14px] text-sm max-w-md ">
-// <h3 className="text-lg font-bold text-white">📍Location</h3>
-//         36/5, Somasundarapalya Main Rd, adjacent 27thMainRoad<br /> HaralukunteVillage, Sector 2, HSR Layout<br />Bengaluru, Karnataka -560102<br />
-//         +91-9293455889
-// </div>
-//       <div className="sm:text-[14px] text-sm">Terms and Conditions</div>
-//     </div>
     <>   
       <footer className="flex flex-col bg-gray-900 py-8 text-center">
         <div className="container mx-auto flex flex-wrap ">
@@ -33,9 +22,6 @@ function Footer() {
 
               <FaRegAddressCard size={24} className="text-gray-400 mr-2 mb-2" /><h3 className="text-white font-bold text-xl mb-2"> Registered Address</h3></div>
             <div className="flex items-center">
-              
-
-              
               <p className="text-gray-400">11-6-18/1,
                 Champagalli Street,</p>
             </div>
@@ -49,19 +35,22 @@ function Footer() {
           <div className="w-full md:w-1/3 flex flex-col mb-4 items-center text-base ">
             <div className="flex items-center">
 
-              <RiMapPin2Line size={24} className="text-gray-400 mr-2 mb-2" /><h3 className="text-white font-bold text-xl mb-2"> Office Location</h3></div>
+              <RiMapPin2Line size={24} className="text-gray-400 mr-2 mb-2" /><h3 className="text-white font-bold text-xl mb-2"> Office Address</h3></div>
             <div className="flex items-center">
-              <p className="text-gray-400">36/5, Ground Floor, Building-1,</p>
+              <p className="text-gray-400">Ground Floor, Building-1, Hustlehub </p>
             </div>
             <div className="flex items-center">
-              <p className="text-gray-400">Hustlehub Tech Park, Somasundarapalya Main Rd</p>
+              <p className="text-gray-400">Tech Park, 36/5, Somasundarapalya</p>
             </div>
             <div className="flex items-center">
-              <p className="text-gray-400">HaralukunteVillage, Sector 2, HSR Layout</p>
+              <p className="text-gray-400">Main Rd, HaralukunteVillage, Sector 2,</p>
             </div>
             <div className="flex items-center">
-              <p className="text-gray-400">Bengaluru, Karnataka 560102</p>
+              <p className="text-gray-400">HSR Layout, Bengaluru, Karnataka, 560102</p>
             </div>
+            {/* <div className="flex items-center">
+              <p className="text-gray-400"></p>
+            </div> */}
           </div>
         </div>
         <div className="w:100% flex flex-col items-center">

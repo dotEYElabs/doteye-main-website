@@ -910,6 +910,23 @@ body {
   z-index: -2 !important;
   background: linear-gradient(to right, #f15a29 -2.64%, #fe9c02 98.17%);
 }
+.Heading-overlay-future {
+  display: inline-block;
+  position: relative;
+  z-index: 13 !important;
+  text-align: center;
+}
+.Heading-overlay-future::after{
+  content: "";
+  position: absolute;
+  width: 97%;
+  height: 7px;
+  bottom: 2px;
+  left: 0;
+  text-align: center;
+  z-index: -2 !important;
+  background: linear-gradient(to right, #f15a29 -2.64%, #fe9c02 98.17%);
+}
 
 /* Heading overlay line2 */
 .Heading-overlay-1 {

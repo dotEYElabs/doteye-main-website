@@ -41,8 +41,7 @@ function FutureLine() {
         <div className=" sm:w-[48%] w-full text-white text-start sm:py-0 py-2 sm:mt-0 mt-60  my-10">
           <div className=" px-5">
             <h1 className="py-3 text-4xl font-bold">
-              OUR FUTURE LINE OF
-              <span className="Heading-overlay px-1"> PRODUCTS</span>
+              OUR FUTURE LINE OF <span className="Heading-overlay-future">PRODUCTS</span>
             </h1>
             <ul>
               <li className="py-2 my-1 text-base">

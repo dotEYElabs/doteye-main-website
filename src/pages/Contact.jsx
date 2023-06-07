@@ -13,7 +13,6 @@ function Contact() {
             Feel free to reach out to us with any questions or comments.
           </p>
         </div>
-
         <div className="flex justify-center items-center mt-3 py-3">
           <form className="w-full max-w-lg" method="post" action="https://forms.un-static.com/forms/26478f5156db6f7b5af33795c4b75d064740e173">
             <div className="flex flex-wrap -mx-3 mb-6">
@@ -22,8 +21,8 @@ function Contact() {
                   className="text-base appearance-none block sm:w-full w-[90%] m-auto text-gray-400  border  rounded py-3 px-4 mb-3 leading-tight "
                   id="grid-first-name"
                   type="text"
-name="first_name"
-                  placeholder="Name"
+                  name="first_name"
+                  placeholder="First Name"
                   required
                 />
               </div>
@@ -32,8 +31,8 @@ name="first_name"
                   className="text-base appearance-none block sm:w-full w-[90%] m-auto text-gray-400 border  rounded py-3 px-4 leading-tight "
                   id="grid-last-name"
                   type="text"
-name="last_name"
-                  placeholder="Lastname"
+                  name="last_name"
+                  placeholder="Last Name"
                   required
                 />
               </div>
@@ -44,9 +43,9 @@ name="last_name"
                   className="text-base appearance-none block sm:w-full w-[90%] m-auto  text-gray-400  border  rounded py-3 px-4 mb-3 leading-tight focus:outline-none "
                   id="email"
                   type="email"
-name="email"
+                  name="email"
                   placeholder="Email"
-required
+                  required
                 />
               </div>
             </div>
@@ -55,7 +54,7 @@ required
                 <textarea
                   className="text-base no-resize appearance-none block sm:w-full w-[90%] m-auto  text-gray-400 border rounded py-3 px-4 mb-3 leading-tight  h-36 resize-none"
                   id="message"
-name="message"
+                  name="message"
                   placeholder="Your Query"
                   required
                 ></textarea>

@@ -4,6 +4,7 @@ import FutureLine from "../components/FutureLine";
 import Hero from "../components/Hero";
 import Slider from "../components/Slider";
 import Testimonials from '../components/Testimonials'
+import LoiBanner from "../components/LoiBanner";
 import Contact from "./Contact";
 //import DotFeature from "./DotFeature";
 import HowWeDo from "./HowWeDo";
@@ -14,10 +15,11 @@ function Home() {
     <>
       <Hero />
       <Slider />
+      <Testimonials />
+      {/* <LoiBanner /> */}
       <WhoAre />
       <HowWeDo />
       <FutureLine />
-      <Testimonials />
       <Contact />
       {/* <DotFeature /> */}
       <Footer />
