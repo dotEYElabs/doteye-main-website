@@ -14,9 +14,9 @@ function Home() {
   return (
     <>
       <Hero />
+      <LoiBanner />
       <Slider />
       <Testimonials />
-      {/* <LoiBanner /> */}
       <WhoAre />
       <HowWeDo />
       <FutureLine />

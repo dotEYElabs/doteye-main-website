@@ -25,9 +25,10 @@ function WhoAre() {
           <div className="m-3">
             <img src={Profile1} alt="" className="mt-2 ml-4 w-16" />
             <h2 className="Heading pt-6 px-4 font-bold">TARUN KOPURI</h2>
-            <p className=" py-0 px-4 title">Co-Founder & CEO</p>
+            <p className=" py-0 px-4 title">Founder & CEO</p>
             <p className="py-2 px-3 text-base box ">
-              Meet Tarun. He is a serial entrepreneur with a passion for business. He graduated from Andhra University with a degree in civil engineering. He has a dream of making his business, dotEYE, a global name and providing consumers with the simplest solutions around the world. Tarun is always looking to improve, so he welcomes constructive criticism. He's a man who eats, drinks, and breathes business.
+              Meet Tarun. He is a serial entrepreneur with a passion for business. He graduated from Andhra University with a degree in civil engineering. 
+              He has a dream of making his business, dotEYE, a global name and providing consumers with the simplest solutions around the world. Tarun is always looking to improve, so he welcomes constructive criticism. He's a man who eats, drinks, and breathes business.
             </p>
           </div>
         </div>
@@ -37,10 +38,9 @@ function WhoAre() {
             <h2 className="Heading pt-6 px-4 font-bold">GOVARDHAN CHITRADA</h2>
             <p className=" py-0 px-4 title">Co-Founder & CTA</p>
             <p className="py-2 px-3  text-base box">
-Meet Govardhan, He's one smart cookie! holding a postgraduate in Artificial Intelligence and Robotics from the prestigious University of La Sapienza. With a passion for technology and innovation, He is a 2X founder with dotEYE being his second technology venture.
+              Meet Govardhan, He's one smart cookie! holding a postgraduate in Artificial Intelligence and Robotics from the prestigious University of La Sapienza. With a passion for technology and innovation, He is a 2X founder with dotEYE being his second technology venture.
               He is dedicated to upholding the product vision and ensuring success through unwavering focus and determination. <b><i>"Learn, Explore and Thrive to Succeed"</i></b>
-
-</p>
+            </p>
           </div>
         </div>
       </div>
