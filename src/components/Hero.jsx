@@ -8,7 +8,7 @@ import line from "../assets/vector/Line-1.min.png";
 function Hero() {
   return (
     <>
-      <section className="hero capitalize flex flex-col sm:flex-row flex-col-reverse justify-around  items-center p-8 z-10 sm:mt-0 mt-5">
+      <section className="hero capitalize flex flex-col sm:flex-row flex-col-reverse justify-around items-center p-8 z-10 sm:mt-0 mt-5">
         <div className="heading text-white sm:w-[48%] w-full">
           <div className="absolute top-28 left-64 w-11">
             <img src={vector1} alt="" />

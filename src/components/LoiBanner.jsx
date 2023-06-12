@@ -2,7 +2,7 @@ import React from 'react'
 
 const LoiBanner = () => {
   return (
-    <div className="WhoAreWe" id="About">
+    <div className="WhoAreWe" id="LoiBanner">
       <div className="flex flex-row xl:flex-row lg:flex-row md:flex-row sm:flex-row xs:flex-col w-full h-52 xl:h-52 lg:h-52 md:h-52 sm:h-52 xs:h-28">
         <div className='flex justify-center w-3/6 xl:w-3/6 lg:w-3/6 md:w-3/6 sm:w-3/6 xs:w-full text-white items-center'>
           <div className='Heading uppercase text-3xl xl:text-3xl lg:text-3xl md:text-3xl sm:text-3xl xs:text-[20px] pt-[4px] text-center text-white font-black pl-[150px] xl:pl-[150px] lg:pl-[150px] md:pl-[105px] sm:pl-[45px] xs:pl-[0px]'>

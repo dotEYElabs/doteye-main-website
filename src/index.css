@@ -18,8 +18,6 @@ html {
 }
 body {
   background: #0e121e;
-  /* margin: 0;
-  padding: 0; */
 }
 .Heading {
   font-family: "Hakuna Sans",sans-serif;
@@ -119,7 +117,6 @@ margin: 0px 10px;
   flex-direction: column;
   align-items: center;
 }
-
 .slider-buttons {
   display: flex;
   justify-content: center;

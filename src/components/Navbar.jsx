@@ -8,9 +8,10 @@ const Navbar = () => {
     { name: "About", link: "/#FutureLine" },
     { name: "Who Are We", link: "/#About" },
     { name: "What We DO", link: "/#WhatWeDO" },
-
-
+    { name: "LOI", link: "/#LoiBanner" },
+    { name: "Testimonials", link: "/#Testimonials" }
   ];
+
   let [open, setOpen] = useState(false);
   return (
     <div className="header w-full fixed top-0 left-0 z-30">
@@ -35,13 +36,15 @@ const Navbar = () => {
             open ? "top-20 opennav" : "top-[-490px]"
           }`}
         >
-          {Links.map((link) => (
+          {
+          Links.map((link) => (
             <li key={link.name} className="md:ml-8 text-sm md:my-0 my-7">
               <a href={link.link} className=" hover:text-gray-400 duration-500">
                 {link.name}
               </a>
             </li>
-          ))}
+          ))
+          }
           <button 
             className="btn text-white ml-3 " ><a href="/#Contact" className="ml-2  text-white text-base">Contact Us</a></button>
         </ul>

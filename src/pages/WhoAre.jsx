@@ -21,18 +21,18 @@ function WhoAre() {
         </p>
       </div>
       <div className="flex flex-col sm:flex-row justify-center items-center text-white m-4 shadow-black">
-        <div className=" profile-box sm:w-[35%] w-[90%] m-auto h-auto ">
+        <div className=" profile-box sm:w-[35%] w-[90%] m-auto h-[365px] xl:h-[365px] lg:h-[410px] md:h-[525px] sm:h-[670px] xs:h-[510px]">
           <div className="m-3">
             <img src={Profile1} alt="" className="mt-2 ml-4 w-16" />
             <h2 className="Heading pt-6 px-4 font-bold">TARUN KOPURI</h2>
             <p className=" py-0 px-4 title">Founder & CEO</p>
-            <p className="py-2 px-3 text-base box ">
+            <p className="py-2 px-3 text-base box">
               Meet Tarun. He is a serial entrepreneur with a passion for business. He graduated from Andhra University with a degree in civil engineering. 
               He has a dream of making his business, dotEYE, a global name and providing consumers with the simplest solutions around the world. Tarun is always looking to improve, so he welcomes constructive criticism. He's a man who eats, drinks, and breathes business.
             </p>
           </div>
         </div>
-        <div className="profile-box sm:w-[35%] w-[90%] m-auto h-auto">
+        <div className="profile-box sm:w-[35%] w-[90%] m-auto h-[365px] xl:h-[365px] lg:h-[410px] md:h-[525px] sm:h-[670px] xs:h-[530px]">
           <div className="m-3">
             <img src={Profile2} alt="" className="mt-2 ml-4 w-16" />
             <h2 className="Heading pt-6 px-4 font-bold">GOVARDHAN CHITRADA</h2>

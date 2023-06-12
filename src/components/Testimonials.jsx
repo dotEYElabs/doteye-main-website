@@ -13,10 +13,10 @@ import { Autoplay, Pagination } from "swiper";
 
 const Testimonials = () => {
   return (
-    <div className="" id="About">
+    <div className="" id="Testimonials">
       <div className="w-full 2xl:w-full xl:w-[60%] lg:w-[70%] md:w-[80%] sm:w-[80%] m-auto mt-6">
-        <h1 className="Heading text-white text-center text-3xl 2xl:w-full xl:text-3xl lg:text-3xl md:text-3xl sm:text-2xl xs:text-[16px] py-4">
-          Client Raves : A Proto<span className="Heading-overlay">type Succ</span>ess Story
+        <h1 className="Heading text-white text-center text-3xl 2xl:w-full xl:text-3xl lg:text-3xl md:text-3xl sm:text-2xl xs:text-[21px] py-4">
+          Client Raves : A Prototype Success <span className="Heading-overlay">Story</span>
         </h1>
       </div>
       <Swiper
