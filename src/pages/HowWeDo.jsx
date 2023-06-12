@@ -9,7 +9,7 @@ function HowWeDo() {
       </div>
       <div className="howwedoit flex flex-col sm:flex-row justify-center items-center">
         <div className="HowWeDo text-white sm:w-[60%] w-[90%]">
-        <h1 className="Heading text-white text-center text-2xl py-4">
+        <h1 className="Heading text-white text-center text-3xl py-4">
           How <span className="Heading-overlay">We Do</span>
         </h1>
           <p className="font-thin text-base py-3 leading-6">

@@ -18,6 +18,8 @@ html {
 }
 body {
   background: #0e121e;
+  /* margin: 0;
+  padding: 0; */
 }
 .Heading {
   font-family: "Hakuna Sans",sans-serif;
@@ -189,7 +191,8 @@ padding: 1rem;
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
-  line-height: 90px;
+  line-height: 40px;
+  padding-top: 30px;
 }
 .Slider2Card {
   background: linear-gradient(-56.42deg, #231818 -2.64%, #171c28 98.17%);}
