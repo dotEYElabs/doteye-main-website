@@ -9,12 +9,16 @@ import Contact from "./Contact";
 //import DotFeature from "./DotFeature";
 import HowWeDo from "./HowWeDo";
 import WhoAre from "./WhoAre";
+import Incubated from "../components/Incubated";
+import ProblemStatement from "../components/ProblemStatement";
 
 function Home() {
   return (
     <>
       <Hero />
+      <ProblemStatement />
       <LoiBanner />
+      <Incubated />
       <Slider />
       <Testimonials />
       <WhoAre />
