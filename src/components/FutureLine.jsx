@@ -7,11 +7,9 @@ import ChartLine from "../assets/vector/ChartLine.min.png";
 function FutureLine() {
   return (
     <div
-      div
-      className=" FutureLine relative   sm:h-auto h-[800px] top-0 left-0" id="FutureLine"
-    >
+      div className=" FutureLine relative sm:h-auto h-[830px] top-0 left-0" id="FutureLine">
       <div className="absolute top-0 right-[700px]">
-        <img src={vector2} alt="" className="w-8" />
+        {/* <img src={vector2} alt="" className="w-8" /> */}
       </div>
       <div className="absolute top-14 left-5">
         <img src={ChartLine} alt="" className="w-14 px-2" />
@@ -38,7 +36,7 @@ function FutureLine() {
             className="absolute sm:top-6 top-5 sm:left-40 left-10 w-72"
           />
         </div>
-        <div className=" sm:w-[48%] w-full text-white text-start sm:py-0 py-2 sm:mt-0 mt-60  my-10">
+        <div className=" sm:w-[48%] w-full text-black text-start sm:py-0 py-2 sm:mt-0 mt-60  my-10">
           <div className=" px-5">
             <h1 className="py-3 text-4xl font-bold">
               OUR FUTURE LINE OF <span className="Heading-overlay-future">PRODUCTS</span>
@@ -55,7 +53,7 @@ function FutureLine() {
                   {/* <span className="text-white"> B2B Model,</span>
                   we offer Quarterly, Half-yearly and Annual subscription plans */}
               </li>
-              <li className="py-3 text-orange-500 text-base">
+              <li className="py-3 text-orange-500 font-semibold text-base">
                 At dotEYE, we make sure your data is locked up as tight as Fort Knox
                 
               </li>

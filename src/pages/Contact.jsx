@@ -6,10 +6,10 @@ function Contact() {
   return (
     <>
       <div className="contact" id="Contact">
-        <div className="text-white text-center m-auto  sm:w-[50%]  w-full pt-5">
+        <div className="text-black text-center m-auto  sm:w-[50%]  w-full pt-5">
           <h1 className="Heading  text-3xl font-bold uppercase">Contact Us</h1>
 
-          <p className="text-sm p-5">
+          <p className="text-sm p-5 ">
             Feel free to reach out to us with any questions or comments.
           </p>
         </div>
@@ -68,9 +68,9 @@ function Contact() {
           </form>
         </div>
       </div>
-      <div className="relative top-0 left-0">
+      {/* <div className="relative top-0 left-0">
         <img src={vector1} alt="" className="absolute bottom-72 left-72 w-12" />
-      </div>
+      </div> */}
       <div className="relative top-0 left-0">
         <img
           src={ChartLine}

@@ -4,6 +4,7 @@ import SliderCard from "./SliderCard";
 import SliderCardReverse from "./SliderCardReverse";
 import SliderCard2Reverse from "./SliderCard2Reverse";
 import vector1 from "../assets/vector/Vector-1.min.png";
+import shield from '../assets/images/shield.png'
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -26,18 +27,18 @@ const Slider = () => {
         <img src={vector1} alt="" />
       </div>
       <div className="flex justify-center items-center">
-        <h1 className="Heading text-white text-center font-bold text-3xl py-4">
+        <h1 className="Heading text-black text-center font-bold text-3xl py-4">
           WHAT <span className="Heading-overlay"> WE DO?</span>
         </h1>
-        <div>
-          <img src={ChartLine} alt="" className="pl-9 w-16 mt-6 " />
-        </div>
+        {/* <div>
+          <img src={shield} alt="" className="pl-9 w-16 mt-6 " />
+        </div> */}
       </div>
       <Swiper
         spaceBetween={30}
         centeredSlides={true}
         autoplay={{
-          delay: 3500,
+          delay: 7500,
           disableOnInteraction: false,
         }}
         pagination={{

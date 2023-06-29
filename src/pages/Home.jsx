@@ -18,13 +18,13 @@ function Home() {
       <Hero />
       <ProblemStatement />
       <LoiBanner />
-      <Incubated />
       <Slider />
       <Testimonials />
       <WhoAre />
       <HowWeDo />
       <FutureLine />
       <Contact />
+      <Incubated />
       {/* <DotFeature /> */}
       <Footer />
     </>

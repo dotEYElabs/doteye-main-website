@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "../assets/images/logo.min.png";
+import logo from "../assets/images/dotEYE Logo_Website.png";
 import { GiHamburgerMenu } from "react-icons/gi";
 
 const Navbar = () => {
@@ -18,7 +18,7 @@ const Navbar = () => {
       <div className="md:flex items-center justify-between  py-4 md:px-10 px-7">
         <div
           className="font-bold text-2xl cursor-pointer flex items-center font-[Poppins] 
-      text-gray-800 "
+      text-black "
         >
           <img src={logo} alt="" className="h-[51px] w-[231]"  />
         </div>
@@ -39,14 +39,12 @@ const Navbar = () => {
           {
           Links.map((link) => (
             <li key={link.name} className="md:ml-8 text-sm md:my-0 my-7">
-              <a href={link.link} className=" hover:text-gray-400 duration-500">
+              <a href={link.link} className=" text-black duration-500">
                 {link.name}
               </a>
             </li>
           ))
           }
-          <button 
-            className="btn text-white ml-3 " ><a href="/#Contact" className="ml-2  text-white text-base">Contact Us</a></button>
         </ul>
       </div>
     </div>

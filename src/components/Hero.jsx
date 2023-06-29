@@ -16,8 +16,8 @@ function Hero() {
           <h1 className="banner-heading Heading font-bold uppercase">
             Confidential and Proprietary
           </h1>
-          <p className="text-base">
-            <span className="logo-span">DotEYE</span> is born from a strong
+          <p className="text-base text-black">
+            <span className="logo-span font-semibold">DotEYE</span> is born from a strong
             belief that a simplified tech suite is the way forward to help the
             complex retail market.
           </p>
@@ -34,10 +34,10 @@ function Hero() {
           />
         </div>
         <div className="absolute bottom-16 left-[300px] w-7">
-          <img src={ShieldCheck} alt="" />
+          {/* <img src={ShieldCheck} alt="" /> */}
         </div>
       </section>
-      <img src={line} alt="" />
+      {/* <img src={line} alt="" /> */}
     </>
   );
 }

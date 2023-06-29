@@ -2,6 +2,7 @@ import React from "react";
 import sliderimg from "../assets/images/slider2.min.png";
 import overlayreverse from "../assets/images/overlayreverse.min.png";
 import vector1 from "../assets/vector/Vector-1.min.png";
+import shield from '../assets/images/shield.png'
 
 function SliderCardReverse() {
   return (
@@ -9,7 +10,7 @@ function SliderCardReverse() {
       <div className="slide-container flex flex-col sm:flex-row justify-around items-center">
         <div className="sm:w-[48%] w-full  text-start sm:py-0 py-2 sm:mt-0 mt-3  my-10">
           <div className="absolute top-8 left-0">
-            <img src={vector1} alt="" className="w-14 px-2" />
+            <img src={shield} alt="" className="w-[35px] px-2" />
           </div>
           <img
             src={sliderimg}
@@ -21,11 +22,11 @@ function SliderCardReverse() {
             alt=""
             className="absolute sm:top-16 top-16 sm:left-56 left-20 w-72"
           />
-          <div className="absolute bottom-4 right-[700px]">
-            <img src={vector1} alt="" className="w-14 px-2" />
-          </div>
+          {/* <div className="absolute bottom-4 right-[700px]">
+            <img src={shield} alt="" className="w-[30px] px-2" />
+          </div> */}
         </div>
-        <div className=" sm:w-[48%] w-full text-white text-start sm:py-0 py-2 sm:mt-0 mt-64  my-10">
+        <div className=" sm:w-[48%] w-full text-black text-start sm:py-0 py-2 sm:mt-0 mt-64  my-10">
           <div className=" px-1">
             <h1 className="Heading py-3 text-3xl font-bold ">SELF-CHECKOUT VERIFICATION</h1>
             <ul className="list-disc flex-row sm:flex-col">
