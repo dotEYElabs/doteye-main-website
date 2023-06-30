@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.19f1327b.css",
-    "main.js": "/static/js/main.e17883a0.js",
+    "main.css": "/static/css/main.429ab801.css",
+    "main.js": "/static/js/main.618f29ca.js",
     "static/media/slider2.min.png": "/static/media/slider2.min.313315c2f0ab1f5a1b92.png",
+    "static/media/DPIIT.png": "/static/media/DPIIT.d6401b8cff14c7672845.png",
     "static/media/feature.min.png": "/static/media/feature.min.75a9570af1a1fff56e8e.png",
     "static/media/slider3.min.png": "/static/media/slider3.min.158c4fefa8f0d1a1ddae.png",
     "static/media/slider1.min.png": "/static/media/slider1.min.4ee7a463a47523b79aae.png",
@@ -11,13 +12,16 @@
     "static/media/overlayreverse.min.png": "/static/media/overlayreverse.min.cd8936cc08194ead7b10.png",
     "static/media/Hakuna-Sans.otf": "/static/media/Hakuna-Sans.b11ad9785224884d0b22.otf",
     "static/media/iim_nsr_logo.png": "/static/media/iim_nsr_logo.cd8e95e598ff2d07f135.png",
+    "static/media/dotEYE Logo_Website.png": "/static/media/dotEYE Logo_Website.f6681fc5e34b97be0aa8.png",
+    "static/media/shield.png": "/static/media/shield.62670c1cedc34f563fa8.png",
     "static/media/Group 9.min.png": "/static/media/Group 9.min.703fc767daf341b2c4c4.png",
+    "static/media/startup-india.svg": "/static/media/startup-india.c52bb9864eb547c00d314f054d1577f4.svg",
     "index.html": "/index.html",
-    "main.19f1327b.css.map": "/static/css/main.19f1327b.css.map",
-    "main.e17883a0.js.map": "/static/js/main.e17883a0.js.map"
+    "main.429ab801.css.map": "/static/css/main.429ab801.css.map",
+    "main.618f29ca.js.map": "/static/js/main.618f29ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.19f1327b.css",
-    "static/js/main.e17883a0.js"
+    "static/css/main.429ab801.css",
+    "static/js/main.618f29ca.js"
   ]
 }
